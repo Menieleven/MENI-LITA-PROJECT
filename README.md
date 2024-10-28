@@ -54,7 +54,7 @@ Summarize Total sales by product and pie chart representation
 ![Image_alt]
 
  Summarize Total Sales by region and pie chart representation
-![Image_alt]
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/9646cdce7a116acf33efd978856575af8a5dff83/AVERAGE%20SALES%20BY%20REGION.JPG)
 
 Summarize Total Sales by Month and pie chart representation
 ![Image_alt]
