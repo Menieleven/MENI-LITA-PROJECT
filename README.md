@@ -30,10 +30,12 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
     
 - GITHUB
   - For documentation AND Portfolio Building  
-  
-## EXPLORATORY DATA ANALYSIS 
-Here we include some lines of code, queries or some of the DAX expressions used during the analysis; 
-###WITH EXCEL In the initial phase of data cleaning and preparations, I perform the following actions;
+
+
+## EXPLORATORY DATA ANALYSIS:
+Exploratory Data Analysis (EDA) involves investigating and summarizing datasets to discover patterns, trends, relationships, and anomalies, often before applying more complex statistical models.
+EDA involves both graphical and statistical techniques, helping analysts understand the data's underlying structure, spot errors, and gain insights that inform decision-making and further analysis.
+
 
 ## STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
 At the initial stage of the project, we downloaded the file from CANVAS LMS 
@@ -149,3 +151,9 @@ monthly sales total for the current year
 the top 5 customers by total purchase amount
 percentage of total sales contributed by Each region
 identify product with no sales in the last quarter
+
+
+Pivot tables: the use of Pivot Tables in Excel is an essential part of Exploratory Data Analysis (EDA). Pivot tables help to quickly summarize, analyze, and explore large datasets by organizing and aggregating data in a flexible way, which is key to understanding trends, relationships, and patterns in the data.
+The image below is an example of a pivot table that has categorised the total sum of revenue from each region from a dataset
+
+
