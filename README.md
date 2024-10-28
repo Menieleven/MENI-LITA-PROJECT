@@ -55,8 +55,9 @@ Summarize Total sales by product and pie chart representation
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/0ef7e110e813b85e8e586a70cc7f1ef2515b1f69/1B.JPG)
 
  Summarize Total Sales by region and pie chart representation
- ![Image_alt] (https://github.com/Menieleven/MENI-LITA-PROJECT/blob/931b1865b31a1f79f4885b2b56536235f0390c5b/2a.JPG)
-![Image_alt]
+ 
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/931b1865b31a1f79f4885b2b56536235f0390c5b/2a.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/067f0e5aac50294f456143955a784dade7aea9ee/2B.JPG)
 
 Summarize Total Sales by Month In 2023 and pie chart representation
 ![Image_alt]
