@@ -9,12 +9,12 @@ performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
 ### DATA SOURCES
-The main data source used here is the Capstone data uploaded on learners database. 
+The main data source used is the Capstone data uploaded on the learners database. 
 this is an open source data downloaded from my dashboard on the LMS learning platform
 
 
 ### TOOLS USED
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1.  For Data Cleaning
   2.  For Analysis
   3.  For Data Visualization
