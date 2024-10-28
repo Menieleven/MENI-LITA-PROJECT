@@ -52,7 +52,7 @@ then we went ahead with Data Cleaning, Removing Duplicates value
 Summarize Total sales by product and pie chart representation
 
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/f47c0f88d2dad050e8499acb77417868f8ba1817/1A.JPG)
-![Image_alt] (
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/0ef7e110e813b85e8e586a70cc7f1ef2515b1f69/1B.JPG)
 
  Summarize Total Sales by region and pie chart representation
  ![Image_alt] (https://github.com/Menieleven/MENI-LITA-PROJECT/blob/931b1865b31a1f79f4885b2b56536235f0390c5b/2a.JPG)
