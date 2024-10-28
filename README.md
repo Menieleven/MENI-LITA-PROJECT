@@ -1,46 +1,38 @@
 # LITA-PROJECT
 This project gives the detailed documentation of LITA DATA ANALYSIS Project work
 
-## . TABLE OF CONTENT
-### [PROJECT OVERVIEW] (Preview overview) 
-### DATA SOURCES
-### DATA FORMS
-### TOOLS USED
-### DATA CLEANING AND PREPARATION
-### EXPLORATORY DATA ANALYSIS
-### DATA VISUALISATION
-
-
-PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
-PROJECT OVERVIEW
+## PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
+## PROJECT OVERVIEW:
 In this project, you are tasked with analyzing the sales performance of a retail store. 
-AIMS AND OBJECTIVE: explore sales data to uncover key insights such as top-selling products, regional 
+### AIMS AND OBJECTIVE: explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
-
-## INTRODUCTION
-
 DATA SOURCE
-excel file
-csv file
-TOOLS USED
-Microsoft Excel Download Here
-for Data Cleaning
-Analysis and
-visualization
-SQL - Structured Query Language
-Quering of Data
-Power BI - Power Business Intelligent
-Data visualisation
-Report
-EXPLORATORY DATA ANALYSIS DATA ANALYSIS
-This is where I include some line of code, queries or some of the DAX expressions used during th analysis; ###WITH EXCEL In the initial phase of data cleaning and preparations, I perform the following actions;
+- Microsoft Excel file
+  - For Data Cleaning, Analysis and Visualization
+- Microsoft PowerBi
+  - For Analysis Cleaning and Visualization
+  - For Data Visualization and reporting
+- CSV (Comma Separated Value)  file
+- SQL (STRUCTURED QUERY LANGUAGE)
+  - For Data query 
+- GITHUB
+  - For documentation  
+  
+## EXPLORATORY DATA ANALYSIS 
+Here we include some lines of code, queries or some of the DAX expressions used during the analysis; 
+###WITH EXCEL In the initial phase of data cleaning and preparations, I perform the following actions;
+
+# STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
+At the initial stage of the project, we downloaded the file from CANVAS LMS 
+
 
 Data loading and inspection
 Handling missing variables
 Data Cleaning and Formatting
 visualization of key findings
+
 To use pivot:
 Highlight or click on any cell within your data range
 Go to the insert Tab
