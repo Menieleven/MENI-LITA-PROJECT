@@ -24,16 +24,22 @@ DATA SOURCE
 Here we include some lines of code, queries or some of the DAX expressions used during the analysis; 
 ###WITH EXCEL In the initial phase of data cleaning and preparations, I perform the following actions;
 
-# STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
+## STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
 At the initial stage of the project, we downloaded the file from CANVAS LMS 
+then we went ahead with Data Cleaning, Removing Duplicates value
+  - Data cleaning i.e removing Duplicate values - Using this operation in Excel, 40079 duplicate values were removed and 9921 Unique values remained
+  - I also calculated TOTAL REVENUE that is Quantity * Unit sold, to determine the total amount of product sold per day
 
-
-Data loading and inspection
-Handling missing variables
-Data Cleaning and Formatting
-visualization of key findings
-
-To use pivot:
+## GENERATING REPORT USING PIVOT TABLE
+  Highlight or click on desired cell within your data range
+  Go to the insert Tab, Click on the pivot  table button to open a dialog box
+  Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
+  Build customize and format the table
+  
+  -  Summarize Total sales by product
+  -  Summarize Total Sales by region
+  -  Summarize Total Sales by Month
+###
 Highlight or click on any cell within your data range
 Go to the insert Tab
 Click on the pivot  table button to open a dialog box
