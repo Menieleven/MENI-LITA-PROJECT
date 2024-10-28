@@ -50,11 +50,14 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Build customize and format the table
   
 Summarize Total sales by product and pie chart representation
+
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/f0a606dcd5f3286c8ad5fbd90c419b093a4cc987/TOTAL%20SALES%20BY%20PRODUCT.JPG)
 ![Image_alt]
 
  Summarize Total Sales by region and pie chart representation
+ 
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/9646cdce7a116acf33efd978856575af8a5dff83/AVERAGE%20SALES%20BY%20REGION.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/a98944a6e5b4bab1a2a7871394f1b485e95b2d23/TOTAL%20SALES%20BY%20REGION%20GRAPH.JPG)
 
 Summarize Total Sales by Month and pie chart representation
 ![Image_alt]
