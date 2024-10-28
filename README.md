@@ -1,14 +1,15 @@
 # LITA-PROJECT
 
 ## TABLE OF CONTENT
-[PROJECT OVERVIEW] (Preview overview) 
-DATA SOURCES
-DATA FORMS
-TOOLS USED
-DATA CLEANING AND PREPARATION
-EXPLORATORY DATA ANALYSIS
-DATA VISUALISATION
-This project gives the detailed documentation of LITA DATA ANALYSIS Project work
+### [PROJECT OVERVIEW] (Preview overview) 
+### DATA SOURCES
+### DATA FORMS
+### TOOLS USED
+### DATA CLEANING AND PREPARATION
+### EXPLORATORY DATA ANALYSIS
+### DATA VISUALISATION
+### This project gives the detailed documentation of LITA DATA ANALYSIS Project work
+
 PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 PROJECT OVERVIEW
 In this project, you are tasked with analyzing the sales performance of a retail store. 
