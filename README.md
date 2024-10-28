@@ -50,7 +50,7 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Build customize and format the table
   
   -  Summarize Total sales by product and pie chart representation
-    ! 
+    !
   -  Summarize Total Sales by region and pie chart representation
   -  Summarize Total Sales by Month and pie chart representation
 
