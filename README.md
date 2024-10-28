@@ -1,29 +1,35 @@
 # LITA-PROJECT
 This project gives the detailed documentation of LITA DATA ANALYSIS Project work
 
-## PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
+### PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 ## PROJECT OVERVIEW:
 In this project, you are tasked with analyzing the sales performance of a retail store. 
 ### AIMS AND OBJECTIVE: explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
-## DATA SOURCES
-The main source of Data used here is Capstone date. 
+### DATA SOURCES
+The main data source used here is the Capstone data uploaded on learners database. 
 this is an open source data downloaded from my dashboard on the LMS learning platform
 
 
-## TOOLS 
-- Microsoft Excel file
-  - For Data Cleaning, Analysis and Visualization
+### TOOLS USED
+- Microsoft Excel
+  1.  For Data Cleaning
+  2.  For Analysis
+  3.  For Data Visualization
+     
 - Microsoft PowerBi
   - For Analysis Cleaning and Visualization
   - For Data Visualization and reporting
+    
 - CSV (Comma Separated Value)  file
+  
 - SQL (STRUCTURED QUERY LANGUAGE)
-  - For Data query 
+  - For Data query
+    
 - GITHUB
-  - For documentation  
+  - For documentation AND Portfolio Building  
   
 ## EXPLORATORY DATA ANALYSIS 
 Here we include some lines of code, queries or some of the DAX expressions used during the analysis; 
@@ -36,21 +42,15 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   - I also calculated TOTAL REVENUE that is Quantity * Unit sold, to determine the total amount of product sold per day
 
 ## GENERATING REPORT USING PIVOT TABLE
-  Highlight or click on desired cell within your data range
+  Highlight or click on the desired cell within your data range
   Go to the insert Tab, Click on the pivot  table button to open a dialog box
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
   
-  -  Summarize Total sales by product
-  -  Summarize Total Sales by region
-  -  Summarize Total Sales by Month
-###
-Highlight or click on any cell within your data range
-Go to the insert Tab
-Click on the pivot  table button to open a dialog box
-Select Data Range
-Choose where to place the pivot table (a new worksheet or in the existing worksheet)
-Build customize and format the table
+  -  Summarize Total sales by product and pie chart representation
+  -  Summarize Total Sales by region and pie chart representation
+  -  Summarize Total Sales by Month and pie chart representation
+
 Summarize total sales by Product
 TOTAL SALES OR REVENUE BY PRODUCT
 Summarize total sales by Region
@@ -77,16 +77,17 @@ TOTAL REVENUE BY REGION USING EXCEL FUNCTION SUMIF
 =AVERAGEIF(range,criteria,[average_range])
 WHERE;
 
-Range : the range of cells to evaluate, in this sense product
+Range: the range of cells to evaluate, in this sense product
 Criteria: the condition that must be met (can be any of the 6 products in this analysis)
-Average_range:the actual cell to average
+Average_range: the actual cell to average
 =AVERAGEIF(C2:C50001,C49988,H2:H50001)
 AVERAGE SALES BY PRODUCT USING EXCEL FUNCTION AVERAGE IF
 Percentage Revenue by Region
 PERCENTAGE REVENUE BY REGION
 Percentage sales by product
 SALES PER PRODUCT IN PERCENTAGE
-EXPLORATORY DATA ANALYSIS (WITH SQL)
+
+# EXPLORATORY DATA ANALYSIS (WITH SQL)
 Convert excel sheet to csv
 Remove headers
 import the csv to my sql
