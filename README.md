@@ -52,13 +52,14 @@ then we went ahead with Data Cleaning, Removing Duplicates value
 Summarize Total sales by product and pie chart representation
 
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/f47c0f88d2dad050e8499acb77417868f8ba1817/1A.JPG)
-![Image_alt]
+![Image_alt] (
 
  Summarize Total Sales by region and pie chart representation
- 
-
+ ![Image_alt] (https://github.com/Menieleven/MENI-LITA-PROJECT/blob/931b1865b31a1f79f4885b2b56536235f0390c5b/2a.JPG)
 ![Image_alt]
+
 Summarize Total Sales by Month In 2023 and pie chart representation
+![Image_alt]
 ![Image_alt]
 
 Summarize average sales by Product 
