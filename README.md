@@ -19,13 +19,13 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
   2.  For Analysis
   3.  For Data Visualization
      
-- Microsoft PowerBi
+- Microsoft PowerBi [Download Here](https://apps.microsoft.com)
   - For Analysis Cleaning and Visualization
   - For Data Visualization and reporting
     
 - CSV (Comma Separated Value)  file
   
-- SQL (STRUCTURED QUERY LANGUAGE)
+- SQL (STRUCTURED QUERY LANGUAGE) [Download Here](https://www.microsoft.com)
   - For Data query
     
 - GITHUB
