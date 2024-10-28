@@ -4,14 +4,14 @@ This project gives the detailed documentation of LITA DATA ANALYSIS Project work
 ### PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 ## PROJECT OVERVIEW:
 In this project, you are tasked with analyzing the sales performance of a retail store. 
-### AIMS AND OBJECTIVE: explore sales data to uncover key insights such as top-selling products, regional 
+
+AIMS AND OBJECTIVE: explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
 ### DATA SOURCES
-The main data source used is the Capstone data uploaded on the learners database. 
+The main data source used is the Capstone data uploaded on the learners' database. 
 this is an open source data downloaded from my dashboard on the LMS learning platform
-
 
 ### TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -50,6 +50,7 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Build customize and format the table
   
   -  Summarize Total sales by product and pie chart representation
+    ! 
   -  Summarize Total Sales by region and pie chart representation
   -  Summarize Total Sales by Month and pie chart representation
 
@@ -67,7 +68,7 @@ SUM OF TOTAL REVENUE BY REGION
 Sum of total Revenue by Region using excel function SUMIF
 
 =SUMIF(range,criteria,[sum_range])
-WHERE;
+WHERE; 
 
 Range : the range of cells to evaluate, in this sense region
 Criteria: the condition that must be met (can be any of the 4 regions in this analysis- )
@@ -93,45 +94,66 @@ SALES PER PRODUCT IN PERCENTAGE
 Convert excel sheet to csv
 Remove headers
 import the csv to my sql
-Ensure to format the the date column into YYY-MM-DD while importing the csv into my sql
-Top selling product by total sales value
+Ensure to format the the date column into YYY-MM-DD while importing the csv into my SQL
+
+A. Top selling product by total sales value
+
+```
+SELECT FROM SALESDATA
 SELECT Product, SUM(TotalSales) As TotalSales
 FROM orders
 GROUP BY TotalSales DESC
-LIMIT 1;
-Total sales for each product category
+LIMIT 1
+
+```
+B. Total sales for each product category
+```
 SELECT Product, SUM(Totalsales) As TotalSales
 FROM orders
 GROUP BY Product;
+```
 Number of sales transaction in each region
+```
 SELECT Region, COUNT(*)As NumberOfTransaction
 FROM Orders
 GROUP BY Region;
+```
 4.Total revenue per product
 
+```
 SELECT Product, SUM(TotalSales)As TotalRevenue
 FROM Orders
 GROUP BY Product;
+```
 5.Monthly sales total for the current year
 
+```
 SELECT MONTH(OrderDate)As Month, SUM (TotalSales)As MonthlySales
 FROM Orders
 WHERE YEAR(OrderDate)=YEAR(CURDATED())
 GROUP BY MONTH(OrderDate)
 ORDER BY MONTH;
+```
+
 Top 5 customer by totalpurchase amount
+```
 SELECT CustomerID,SUM(TotalSales) As TotalPurchase
 FROM orders
 GROUP BY CustomerID
 ORDER BY TotalPurchase DESC
 LIMIT 5;
+```
+
 Percentage of total sales contributed by each region
+```
 SELECT Region,
 SUM(TotalSales) As TotalSales,
 (SUN(TotalSaless)/(SELECTSUM(TotalSales)FROM orders)*100) As PercentageOfTotalSales
 FROM orders
 GROUP BY Region;
+```
 Products with no sale in the last quarter
+```
 SELECT DISTINCT Product
 FROM orders
 WHERE Product NOT IN(
@@ -139,6 +161,7 @@ SELECT Product
 FROM orders
 WHERE OrderDate>=DATE_SUB(CURDATE(),INTERVAL 3 MONTH)
 );
+```
 EDA involves the exploring of Data to answer some questions about the Data such as;
 
 top-selling product
