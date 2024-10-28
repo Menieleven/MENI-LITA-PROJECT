@@ -70,6 +70,10 @@ Summarize average sales by Product
 
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/d9e933319940d2ceae3f771aab24f4913e1b5d3f/AVERAGE%20SALES%20BY%20PRODUCT.JPG)
 
+Summarize total revenue per product
+
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/b62633a7d6f8141aa7c0276fe00577acbdf3f600/TOTAL%20REVENUE%20PER%20PRODUCT%20GRAPH.JPG)
+
 
 Summarize total sales by Product
 TOTAL SALES OR REVENUE BY PRODUCT
