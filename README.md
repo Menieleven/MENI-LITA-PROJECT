@@ -67,8 +67,8 @@ Summarize average sales by Product
 
 
 Summarize average sales by Product 
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/9646cdce7a116acf33efd978856575af8a5dff83/AVERAGE%20SALES%20BY%20REGION.JPG)
 
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/d9e933319940d2ceae3f771aab24f4913e1b5d3f/AVERAGE%20SALES%20BY%20PRODUCT.JPG)
 
 
 Summarize total sales by Product
