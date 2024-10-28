@@ -8,7 +8,12 @@ In this project, you are tasked with analyzing the sales performance of a retail
 performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
-DATA SOURCE
+## DATA SOURCES
+The main source of Data used here is Capstone date. 
+this is an open source data downloaded from my dashboard on the LMS learning platform
+
+
+## TOOLS 
 - Microsoft Excel file
   - For Data Cleaning, Analysis and Visualization
 - Microsoft PowerBi
