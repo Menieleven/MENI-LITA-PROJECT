@@ -23,7 +23,7 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
   - For Analysis Cleaning and Visualization
   - For Data Visualization and reporting
     
-- CSV (Comma Separated Value)  file
+- CSV (Comma Separated Value)  filE
   
 - SQL (STRUCTURED QUERY LANGUAGE) [Download Here](https://www.microsoft.com)
   - For Data query
