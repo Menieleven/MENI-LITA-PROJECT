@@ -1,6 +1,7 @@
 # LITA-PROJECT
+This project gives the detailed documentation of LITA DATA ANALYSIS Project work
 
-## TABLE OF CONTENT
+## . TABLE OF CONTENT
 ### [PROJECT OVERVIEW] (Preview overview) 
 ### DATA SOURCES
 ### DATA FORMS
@@ -8,7 +9,7 @@
 ### DATA CLEANING AND PREPARATION
 ### EXPLORATORY DATA ANALYSIS
 ### DATA VISUALISATION
-### This project gives the detailed documentation of LITA DATA ANALYSIS Project work
+
 
 PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 PROJECT OVERVIEW
