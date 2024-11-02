@@ -10,7 +10,7 @@ performance, and monthly sales trends and produce an interactive Power BI
 dashboard highlighting these findings.
 
 ### DATA SOURCES
-The main data source used is the Capstone data uploaded on the learners' database. 
+The main data source is the Capstone data uploaded to the learners' database. 
 this is an open source data downloaded from my dashboard on the LMS learning platform
 
 ### TOOLS USED
@@ -23,7 +23,7 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
   - For Analysis Cleaning and Visualization
   - For Data Visualization and reporting
     
-- CSV (Comma Separated Value)  filE
+- CSV (Comma Separated Value)  File
   
 - SQL (STRUCTURED QUERY LANGUAGE) [Download Here](https://www.microsoft.com)
   - For Data query
@@ -34,7 +34,7 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
 
 ## EXPLORATORY DATA ANALYSIS:
 Exploratory Data Analysis (EDA) involves investigating and summarizing datasets to discover patterns, trends, relationships, and anomalies, often before applying more complex statistical models.
-EDA involves both graphical and statistical techniques, helping analysts understand the data's underlying structure, spot errors, and gain insights that inform decision-making and further analysis.
+EDA involves graphical and statistical techniques, helping analysts understand the data's underlying structure, spot errors, and gain insights that inform decision-making and further analysis.
 
 
 ## STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
@@ -51,13 +51,13 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   
 Summarize Total sales by product and pie chart representation
 
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/f47c0f88d2dad050e8499acb77417868f8ba1817/1A.JPG)
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/0ef7e110e813b85e8e586a70cc7f1ef2515b1f69/1B.JPG)
+![Image_alt]
+![Image_alt]
 
  Summarize Total Sales by region and pie chart representation
  
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/931b1865b31a1f79f4885b2b56536235f0390c5b/2a.JPG)
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/067f0e5aac50294f456143955a784dade7aea9ee/2B.JPG)
+![Image_alt]
+![Image_alt]
 
 Summarize Total Sales by Month In 2023 and pie chart representation
 ![Image_alt]
