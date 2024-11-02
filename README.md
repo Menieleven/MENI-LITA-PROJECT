@@ -51,29 +51,31 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   
 Summarize Total sales by product and pie chart representation
 
-![Image_alt]
-![Image_alt]
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/1A.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/1B.JPG)
 
  Summarize Total Sales by region and pie chart representation
  
-![Image_alt]
-![Image_alt]
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/2A.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/2B.JPG)
 
 Summarize Total Sales by Month In 2023 and pie chart representation
-![Image_alt]
-![Image_alt]
 
-Summarize average sales by Product 
-![Image_alt]
-
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/3A.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/3B.JPG)
 
 Summarize average sales by Product 
 
-![Image_alt]
-Summarize total revenue per product
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/4A.JPG)
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/4B.JPG)
 
-![Image_alt]
+Average revenue per Region
 
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/5A.JPG)
+
+Summarize total revenue per Region
+
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/5B.JPG)
 
 Summarize total sales by Product
 TOTAL SALES OR REVENUE BY PRODUCT
