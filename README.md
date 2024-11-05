@@ -1,5 +1,6 @@
 # LITA-PROJECT
 This project gives the detailed documentation of LITA DATA ANALYSIS Project work
+This 
 
 ### PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 ## PROJECT OVERVIEW:
@@ -107,6 +108,7 @@ Range: the range of cells to evaluate, in this sense product
 Criteria: the condition that must be met (can be any of the 6 products in this analysis)
 Average_range: the actual cell to average
 =AVERAGEIF(C2:C50001,C49988,H2:H50001)
+
 AVERAGE SALES BY PRODUCT USING EXCEL FUNCTION AVERAGE IF
 Percentage Revenue by Region
 PERCENTAGE REVENUE BY REGION
