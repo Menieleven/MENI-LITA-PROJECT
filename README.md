@@ -173,13 +173,11 @@ GROUP BY Region;
 ```
 Products with no sale in the last quarter
 ```
-SELECT DISTINCT Product
-FROM orders
-WHERE Product NOT IN(
-SELECT Product
-FROM orders
-WHERE OrderDate>=DATE_SUB(CURDATE(),INTERVAL 3 MONTH)
-);
+ SELECT Product FROM    Salesdata
+WHERE NOT EXISTS (SELECT 1 FROM	SALESDATA
+	WHERE product = product
+	AND Orderdate BETWEEN '2024-01-01' and '2024-12-31'
+)
 ```
 
 
