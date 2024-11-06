@@ -1,4 +1,4 @@
-# LITA-PROJECT
+# LITA-PROJECT 1
 This project gives the detailed documentation of LITA DATA ANALYSIS Project work
 This 
 
@@ -78,16 +78,10 @@ Summarize total revenue per Region
 
 ![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/5B.JPG)
 
-Summarize total sales by Product
-TOTAL SALES OR REVENUE BY PRODUCT
-Summarize total sales by Region
-TOTAL SALES BY REGION
-Summarize total sales by Month
-SUM OF TOTAL REVENUE BY MONTH
-Average Sales per product CAPSTONE AVERAGE SALES PER PRODUCT
+
 
 Sum of total revenue by Region
-SUM OF TOTAL REVENUE BY REGION
+SUM OF TOTAL REVENUE BY REGION 
 
 Sum of total Revenue by Region using excel function SUMIF
 
@@ -187,21 +181,5 @@ FROM orders
 WHERE OrderDate>=DATE_SUB(CURDATE(),INTERVAL 3 MONTH)
 );
 ```
-EDA involves the exploring of Data to answer some questions about the Data such as;
-
-top-selling product
-monthly sales trend
-sales for each product category
-number of sales transaction in each region
-highest selling product by total sales value
-total revenue per product
-monthly sales total for the current year
-the top 5 customers by total purchase amount
-percentage of total sales contributed by Each region
-identify product with no sales in the last quarter
-
-
-Pivot tables: the use of Pivot Tables in Excel is an essential part of Exploratory Data Analysis (EDA). Pivot tables help to quickly summarize, analyze, and explore large datasets by organizing and aggregating data in a flexible way, which is key to understanding trends, relationships, and patterns in the data.
-The image below is an example of a pivot table that has categorised the total sum of revenue from each region from a dataset
 
 
