@@ -1,6 +1,5 @@
 # LITA-PROJECT 1
 This project gives the detailed documentation of LITA DATA ANALYSIS Project work
-This 
 
 ### PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR SALES PERFORMANCE ANALYSIS
 ## PROJECT OVERVIEW:
@@ -175,9 +174,9 @@ Products with no sale in the last quarter
 ```
  SELECT Product FROM    Salesdata
 WHERE NOT EXISTS (SELECT 1 FROM	SALESDATA
+```
 	WHERE product = product
 	AND Orderdate BETWEEN '2024-01-01' and '2024-12-31'
 )
 ```
-
-
+D
