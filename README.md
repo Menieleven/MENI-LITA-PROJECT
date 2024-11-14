@@ -92,6 +92,7 @@ Criteria: the condition that must be met (can be any of the 4 regions in this an
 Sum_range: the actual cell to sum
 =SUMIF(D2:D50001,D2,H2:H50001)
 TOTAL REVENUE BY REGION USING EXCEL FUNCTION SUMIF 
+
 8.Average sales per product
 
 =AVERAGEIF(range,criteria,[average_range])
@@ -181,15 +182,22 @@ WHERE NOT EXISTS (SELECT 1 FROM	SALESDATA
 
 ```
 # EXPLORATORY DATA ANALYSIS (WITH POWER BI)
+
 OVERVIEW OF SALES RECORD
 
- # CONCLUSION
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/9b2c8a4bf41309caf4ad640d2c7e0ac37731e544/SALES2.JPG) 
+
+OVERVIEW 2 
+
+![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/9b2c8a4bf41309caf4ad640d2c7e0ac37731e544/sales%20data%202.JPG)
+
+ ## CONCLUSION
 
 The sales data analysis reveals several key insights. The North region is the top performer, generating the highest revenue at $1.2M, followed by the East region at $0.5M. 
 The South and West regions contribute equally with $0.3M each. Customer distribution is quite even across all regions, with each region having around 2480 customers. 
 Shoes lead as the top-selling product, contributing 30.6% to the total revenue, followed by shirts at 24.0%. Gloves, hats, jackets, and socks also contribute notably to the overall revenue.
 
-# RECOMMENDATION
+## RECOMMENDATION
 
 To further boost revenue, focusing on the North region, which already exhibits strong performance, is recommended. 
 Intensifying marketing efforts and promotions in this region could capitalize on its high revenue potential. 
