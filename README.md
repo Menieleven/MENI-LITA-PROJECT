@@ -174,9 +174,26 @@ Products with no sale in the last quarter
 ```
  SELECT Product FROM    Salesdata
 WHERE NOT EXISTS (SELECT 1 FROM	SALESDATA
-```
+
 	WHERE product = product
 	AND Orderdate BETWEEN '2024-01-01' and '2024-12-31'
 )
+
 ```
-D
+# EXPLORATORY DATA ANALYSIS (WITH POWER BI)
+OVERVIEW OF SALES RECORD
+
+ # CONCLUSION
+
+The sales data analysis reveals several key insights. The North region is the top performer, generating the highest revenue at $1.2M, followed by the East region at $0.5M. 
+The South and West regions contribute equally with $0.3M each. Customer distribution is quite even across all regions, with each region having around 2480 customers. 
+Shoes lead as the top-selling product, contributing 30.6% to the total revenue, followed by shirts at 24.0%. Gloves, hats, jackets, and socks also contribute notably to the overall revenue.
+
+# RECOMMENDATION
+
+To further boost revenue, focusing on the North region, which already exhibits strong performance, is recommended. 
+Intensifying marketing efforts and promotions in this region could capitalize on its high revenue potential. 
+Additionally, expanding the product line for shoes and shirts, or offering special discounts on these items, could attract more customers and increase sales. 
+Furthermore, analyzing the reasons behind the lower revenue in the South and West regions and implementing targeted strategies could help improve sales in these areas.
+
+This structured approach should help drive even better sales performance and customer engagement across all regions. If you need more tailored strategies or assistance with other tasks, I'm here to help!
