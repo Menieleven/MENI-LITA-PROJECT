@@ -15,7 +15,7 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
 
 ### TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-  1.  For Data Cleaning
+  1.  For Data Cleaning and analysis
       
 - Microsoft PowerBi [Download Here](https://apps.microsoft.com)
   - For Analysis Cleaning and Visualization
