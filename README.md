@@ -16,18 +16,14 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
 ### TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1.  For Data Cleaning
-  2.  For Analysis
-  3.  For Data Visualization
-     
+      
 - Microsoft PowerBi [Download Here](https://apps.microsoft.com)
   - For Analysis Cleaning and Visualization
   - For Data Visualization and reporting
     
 - CSV (Comma Separated Value)  File
   
-- SQL (STRUCTURED QUERY LANGUAGE) [Download Here](https://www.microsoft.com)
-  - For Data query
-    
+   
 - GITHUB
   - For documentation AND Portfolio Building  
 
@@ -40,8 +36,7 @@ EDA involves graphical and statistical techniques, helping analysts understand t
 ## STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
 At the initial stage of the project, we downloaded the file from CANVAS LMS 
 then we went ahead with Data Cleaning, Removing Duplicates value
-  - Data cleaning i.e removing Duplicate values - Using this operation in Excel, 40079 duplicate values were removed and 9921 Unique values remained
-  - I also calculated TOTAL REVENUE that is Quantity * Unit sold, to determine the total amount of product sold per day
+  - Data cleaning i.e removing Duplicate values - Using this operation in Excel
 
 ## GENERATING REPORT USING PIVOT TABLE
   Highlight or click on the desired cell within your data range
